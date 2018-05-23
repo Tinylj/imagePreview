@@ -1,0 +1,2 @@
+/*设置IE滤镜，这里的id=imghead要与下方利用Javascript生成div的id相呼应。*/
+#imghead {filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=image);}
